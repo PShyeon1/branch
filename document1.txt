@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #second
 #new text
+=======
+# change test on branch_1
+>>>>>>> branch_1
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
